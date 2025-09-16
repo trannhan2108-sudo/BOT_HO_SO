@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+docxtpl
+python-docx
+openpyxl
+num2words
+pydantic>=2

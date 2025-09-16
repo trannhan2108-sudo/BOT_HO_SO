@@ -1,0 +1,12 @@
+project: BOT_HO_SO
+last_updated: 2025-09-15
+principles:
+  - "Suffix cha–con: '. Bao gồm các vật tư chi tiết:'"
+  - "VAT mặc định: 8%"
+  - "DOCX: dùng for/endfor; XLSX: 1 dòng mẫu {{row.stt}}, {{row.ten}}, {{row.dvt}}, {{row.so_luong}}"
+placeholders_source_of_truth: "mapping/placeholder_mapping_FINAL.xlsx"
+templates_location: "Drive: BOT_HO_SO/templates"
+outputs_location: "Drive: BOT_HO_SO/outputs"
+changes_log:
+  - date: 2025-09-15
+    change: "Chốt cấu trúc Excel dòng mẫu 4 cột"
