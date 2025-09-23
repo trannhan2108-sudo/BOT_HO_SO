@@ -5,3 +5,4 @@ python-docx
 openpyxl
 num2words
 pydantic>=2
+telethon
